@@ -13,13 +13,14 @@ html, body {
 }
 .count-down{
     background:red;
-    width:40%;
+    width:60%;
     height:40%;
-    margin-left: 35%;
+    margin-left: 20%;
     margin-bottom: 5%;
     gap:5%;
     border:5px double gold;
     border-radius: 10px;
+    
 }
 #hours ,#seconds ,#minutes{
     margin-top:10px;
